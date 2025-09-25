@@ -12,7 +12,6 @@
 - [Usage & Examples](#usage--examples)  
 - [Limitations & Future Work](#limitations--future-work)  
 - [Contributing](#contributing)  
-- [License](#license)
 
 ---
 
